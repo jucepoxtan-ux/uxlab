@@ -118,10 +118,10 @@ body.dark .edrea_topbar ul li.button a:hover{
 	color: #fff;
 }
 body.dark .edrea_topbar ul li a:hover{
-	color: #DD4242;
+	color: #FFDD00;
 }
 body.dark .edrea_topbar .menu .ccc{
-	background-color: #DD4242;
+	background-color: #FFDD00;
 }
 body.dark .edrea_about,
 body.dark .edrea_information,
@@ -149,7 +149,7 @@ body.dark .edrea_prevnext a{
 	color: #A9AFC3;
 }
 body.dark .edrea_prevnext a:hover{
-	color: #dd4242;
+	color: #FFDD00;
 }
 body.dark .edrea_testi_slider .quote .svg{
 	color: #232734;
@@ -184,20 +184,20 @@ body.dark .edrea_contact_form a{
 	border-color: #A9AFC3;
 }
 body.dark .edrea_contact_form a:hover{
-	background-color: #DD4242;
-	border-color: #DD4242;
+	background-color: #FFDD00;
+	border-color: #FFDD00;
 }
 body.dark .edrea_footer p a{
 	color: #A9AFC3;
 }
 body.dark .edrea_footer p a:hover{
-	color: #dd4242;
+	color: #FFDD00;
 }
 body.dark .edrea_footer ul a .svg{
 	stroke: #A9AFC3;
 }
 body.dark .edrea_footer ul a:hover .svg{
-	stroke: #dd4242;
+	stroke: #FFDD00;
 }
 body.dark .edrea_mobile_menu .mobile_menu_inner{
 	background-color: #000;
@@ -227,7 +227,7 @@ body.dark .edrea_contact .contact_left p a{
 	color: #A9AFC3;
 }
 body.dark .edrea_contact .contact_left p a:hover{
-	color: #dd4242;
+	color: #FFDD00;
 }
 
 
